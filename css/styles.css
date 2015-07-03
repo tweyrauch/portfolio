@@ -291,9 +291,6 @@ li{
 .lb-overlay img.portrait2{
 	width: 30%;
 }
-.lb-overlay img.portrait3{
-	width: 20%;
-}
 
 /*	OVERLAY NAVIGATION	*/
 .img-nav{
@@ -341,24 +338,22 @@ li{
 	right:25%;
 }
 
-.portrait + div>a.lb-prev,
-.portrait3 + div>a.lb-prev{
-	left: 34.5%;
+.portrait + div>a.lb-prev{
+	left: 36.5%;
 }
 
-.portrait + div>a.lb-next,
-.portrait3 + div>a.lb-next{
-	right:34.5%;
+.portrait + div>a.lb-next{
+	right: 36.5%;
 }
 
 .portrait2 + div>a.lb-prev,
 .animation2 + div>a.lb-prev{
-	left: 28.5%;
+	left: 31.5%;
 }
 
 .portrait2 + div>a.lb-next,
 .animation2 + div>a.lb-next{
-	right:28.5%;
+	right:31.5%;
 }
 
 /*	TARGET	*/
